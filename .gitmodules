@@ -1,3 +1,6 @@
 [submodule "modules/darknet"]
 	path = modules/darknet
 	url = https://github.com/pjreddie/darknet
+[submodule "modules/.\\labelImg\\"]
+	path = modules/.\\labelImg\\
+	url = https://github.com/tzutalin/labelImg.git
